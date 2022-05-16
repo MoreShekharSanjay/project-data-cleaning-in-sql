@@ -1,4 +1,4 @@
-# project-data-cleaning-in-sql
+# Project: Data Cleaning in SQL
 
 In this project we clean the TMDB movies dataset in SQL Server.
 
