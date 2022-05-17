@@ -6,4 +6,5 @@ NOTE: The filenames have been suffixed by "ms-sql" and "pgsql" for use in Micros
 
 Dataset source: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Software and languages used: SQL, Microsoft SQL Server Management Studio 18, PostGreSQL Admin V4, Microsoft Excel
+Software and languages used:
+SQL, Microsoft SQL Server Management Studio 18, PostGreSQL Admin V4, Microsoft Excel
