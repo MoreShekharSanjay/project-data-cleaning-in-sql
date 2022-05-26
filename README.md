@@ -1,4 +1,4 @@
-# Project: Data Cleaning in SQL
+# Data Cleaning in SQL
 
 - In this project we clean the TMDB movies dataset in SQL Server.
 - NOTE: The filenames have been suffixed by "ms-sql" and "pgsql" for use in Microsoft SQL Server and PostGreSQL respectively.
